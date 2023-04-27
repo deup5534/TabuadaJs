@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.central{
+    text-align: center;
+    color: whitesmoke;
+}
+#link{
+    text-decoration: blue;
+}
